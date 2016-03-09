@@ -10,4 +10,8 @@ My Bonus Project
 ![alt text](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_ShunNeric/blob/master/8.png " Logo Title Text 1")
 ##Block for Binary Search 
 ![alt text](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_ShunNeric/blob/master/9.png " Logo Title Text 1")
+##My Phone
+![alt text](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_ShunNeric/blob/master/10.png " Logo Title Text 1")
+![alt text](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_ProjectBonus_ShunNeric/blob/master/11.png " Logo Title Text 1")
+
 Joshua Emmanuel N. Neric DISMATH
